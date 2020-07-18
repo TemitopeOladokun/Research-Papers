@@ -10,3 +10,4 @@
 8. [Faster R-CNN](https://arxiv.org/abs/1506.01497)
 9. [SSD](https://arxiv.org/abs/1512.02325)
 10. [Difference between semantic and instance segmentation](https://www.topbots.com/semantic-segmentation-guide/#:~:text=Semantic%20segmentation%20treats%20multiple%20objects,is%20harder%20than%20semantic%20segmentation.)
+11. [Rethinking Atrous Convolution for Semantic Image Segmentation - DeepLabV3](https://arxiv.org/abs/1706.05587)
