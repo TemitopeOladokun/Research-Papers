@@ -14,3 +14,7 @@
 12. [Instance Segmentation with Deep Learning](https://missinglink.ai/guides/neural-network-concepts/instance-segmentation-deep-learning/)
 13. https://www.technologyreview.com/2020/07/16/1005284/openai-ai-gpt-2-generates-images/amp/?__twitter_impression=true
 14. [Faster R-CNN for Robust Pedestrian Detection Using Semantic Segmentation Network](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00064/full)
+15. (https://medium.com/datadriveninvestor/brain-haemorrhage-segmentation-from-ct-scan-images-using-mask-rcnn-e4f478ee10b2)
+
+
+
